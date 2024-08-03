@@ -41,6 +41,7 @@ WinAPI - 用于创建和管理Windows GUI
 
 ✍️ 作者
 可爱的你 - 初始工作 - MingTone
+
 📄 版权说明
 这个项目签署了MIT许可证，详情请查阅 LICENSE.txt
 
